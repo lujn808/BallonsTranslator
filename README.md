@@ -33,7 +33,7 @@
 
 ## Windows
 如果用 Windows 而且不想自己手动配置环境，而且能正常访问互联网:  
-从 [MEGA](https://mega.nz/folder/gmhmACoD#dkVlZ2nphOkU5-2ACb5dKw) 或 [Google Drive](https://drive.google.com/drive/folders/1uElIYRLNakJj-YS0Kd3r3HE-wzeEvrWd?usp=sharing) 下载 BallonsTranslator_dev_src_with_gitpython.7z，解压并运行 launch_win.bat 启动程序。如果无法自动下载库和模型，手动下载 data 和 ballontrans_pylibs_win.7z 并解压到程序目录下。  
+从 [MEGA](https://mega.nz/folder/gmhmACoD#dkVlZ2nphOkU5-2ACb5dKw) 或 [Google Drive](https://drive.google.com/file/d/1Qpl9sJAPf6EZ9GBkYqjoi76W2GLR0olv/view?usp=sharing) 下载 BallonsTranslator_dev_src_with_gitpython.7z，解压并运行 launch_win.bat 启动程序。如果无法自动下载库和模型，手动下载 data 和 ballontrans_pylibs_win.7z 并解压到程序目录下。  
 运行 scripts/local_gitpull.bat 获取更新。 
 
 ## 运行源码
